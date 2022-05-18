@@ -1,6 +1,6 @@
 1° Challenge de Dados - Alura
 
-Alura é um site com cursos voltados principalmente a área de tecnologia, e eu estou fazendo os cursos direcionados a Data Science e resolvi participar do primeiro desafio de dados que promoveram. Serão 4 semanas acompanhando os instrutores, fazendo os cursos recomendados, fazendo pesquisas e estudando para cumprir esse desafio.
+Alura é um site com cursos voltados principalmente para a área de tecnologia, e eu estou fazendo os cursos direcionados a Data Science e resolvi participar do primeiro desafio de dados que promoveram. Serão 4 semanas acompanhando os instrutores, fazendo os cursos recomendados, fazendo pesquisas e estudando para cumprir esse desafio.
 
 No desafio vamos vivenciar uma demanda do time de vendas da fictíssia Alura Voz, segue abaixo o texto introdutório disponibilidado pela Sthe Monica (@https://github.com/sthemonica), instrutora da Alura:
 
@@ -11,4 +11,4 @@ Desse modo, nossa liderança informa que temos 4 semanas para buscar uma alterna
 Para maiores informações sobre a Alura acesse: www.alura.com.br
 E para maiores informações sobre o desafio acesse: https://www.alura.com.br/challenges/data-science
 
-Sou intusiasta nesse área, meu primeiro contato com Data Science foi em 2017, desde então venho acompanhando e me informando sobre o assunto, e meses atrás decidi pegar firme no estudo da linguagem Python, com foco por enquanto em Pandas e Numpy. Dicas, sugestões e/ou críticas construtivas são bem vindas. Obrigado.
+Sou intusiasta nesse área, meu primeiro contato com Data Science foi em 2017, desde então venho acompanhando e me informando sobre o assunto, e meses atrás decidi pegar firme no estudo da linguagem Python, Pandas e Numpy. Dicas, sugestões e/ou críticas construtivas são bem vindas. Obrigado.
