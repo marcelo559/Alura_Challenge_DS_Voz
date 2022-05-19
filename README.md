@@ -12,3 +12,5 @@ Para maiores informações sobre a Alura acesse: www.alura.com.br
 E para maiores informações sobre o desafio acesse: https://www.alura.com.br/challenges/data-science
 
 Tenho muito interesse pela área, meu primeiro contato com Data Science foi em 2017 mas já trabalhava com análise de números e métricas, desde então venho acompanhando e me informando sobre o assunto, e meses atrás decidi pegar firme no estudo da linguagem Python, Pandas e Numpy. Dicas, sugestões e/ou críticas construtivas são bem vindas. Obrigado.
+
+#alurachallengedatascience1
