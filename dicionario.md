@@ -5,9 +5,9 @@ Para melhorar o desenvolvimento estou mudando alguns informações escritas por 
 
 * `customerID`: número de identificação único de cada cliente
 * `Churn`: se o cliente deixou ou não a empresa `(0 = Clientes / 1 = Contrato Cancelado)`
-* `gender`: gênero (0 = Masculino / 1= Feminino) 
-* `SeniorCitizen`: informação sobre um cliente ter ou não idade igual ou maior que 65 anos 
-* `Partner`:  se o cliente possui ou não um parceiro ou parceira
+* `gender`: gênero `(0 = Masculino / 1= Feminino)` 
+* `SeniorCitizen`: informação sobre um cliente ter ou não idade igual ou maior que 65 anos `(0 = Menor que 65 anos / 1 = Maior ou igual a 65 anos)` 
+* `Partner`:  se o cliente possui ou não um parceiro ou parceira `(0 = Não tem / 1 = Tem parceirx)`
 * `Dependents`: se o cliente possui ou não dependentes
 * `tenure`:  meses de contrato do cliente
 * `PhoneService`: assinatura de serviço telefônico 
